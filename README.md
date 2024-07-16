@@ -11,16 +11,25 @@
       <li>Pages Web</li>
     </ul>
   </div>
+  
   <div>
-    <h3>Programming languages I use</h3>
+    <h3>Programming languages that I use</h3>
     <ul>
       <li>C++</li>
       <li>C#</li>
       <li>Elixir</li>
       <li>Go</li>
-      <li>Rust</li>
-      <li>TypeScript</li>
-      <li>Ruby</li>
+      <li>TypeScript/JavaScript</li>
+      <li>Haxe</li>
+    </ul>
+  </div>
+  <div>
+    <h3>Frameworks and librarys that I use</h3>
+    <ul>
+      <li>Phoenix Framework</li>
+      <li>Svelte</li>
+      <li>.Net MAUI Blazor</li>
+      <li>HaxeFlixel</li>
     </ul>
   </div>
 </div>
