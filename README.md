@@ -9,6 +9,7 @@
       <li>Desktop</li>
       <li>Videogames</li>
       <li>Pages Web</li>
+      <li>CLI</li>
     </ul>
   </div>
   
