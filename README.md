@@ -22,6 +22,8 @@
       <li>Go</li>
       <li>TypeScript/JavaScript</li>
       <li>Haxe</li>
+      <li>Dart</li>
+      <li>Erlang</li>
     </ul>
   </div>
   <div>
