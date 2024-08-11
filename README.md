@@ -28,9 +28,10 @@
     <h3>Frameworks and librarys that I use</h3>
     <ul>
       <li>Phoenix Framework</li>
-      <li>Svelte</li>
-      <li>.Net MAUI Blazor</li>
-      <li>HaxeFlixel</li>
+      <li>Qwik</li>
+      <li>Lit</li>
+      <li>Flutter</li>
+      <li>Godot Engine</li>
     </ul>
   </div>
 </div>
