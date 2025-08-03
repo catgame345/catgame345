@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Catgame345
 ==================================================================================================================================
 
-Hello/Hola/Bonjour/Salut/Hej/Helo/Русскй/こにちは
+Hello/Hola/Bonjour/Hallo/Hej/Helo/Русскй/こにちは
 ---------------------------------------------
 
 My favourite animal is the Bombay cat.
