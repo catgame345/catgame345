@@ -1,5 +1,4 @@
 # 💫 About Me:
-My favourite animal is the Bombay cat.
 
 
 ## 🌐 Socials:
